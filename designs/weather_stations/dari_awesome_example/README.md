@@ -1,12 +1,18 @@
 # dari // alexren's super cool weather station submission
+This is my super awesoem
 
-# PCB
+## Features:
+- Custom graphics
 
-# CAD Model
+## PCB
 
-# Code outline
-My code is super awesome!! It's written in Rust 
 
+
+## CAD Model:
+Everything fits together
+
+## Firmware overview
+The firmware for this is written in Arduino. It grabs the weather info using an api request to mateoweather, 
 
 
 PLZ DONT COMMIT YOUR IRL COORDS
