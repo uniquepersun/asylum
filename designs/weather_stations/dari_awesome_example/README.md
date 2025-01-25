@@ -1,6 +1,6 @@
 # dari // alexren's super cool weather station submission
 
-Here's my submission for my weather station! Tentatively calling it raincloud
+Here's my submission for my weather station! Under the asylum "raincloud"
 
 ## Features:
 - Displays:
@@ -25,7 +25,7 @@ Schematic            |  PCB
 ## CAD Model:
 Everything fits together using 4 M3 Heatset inserts and 4 M3x16mm screws. Here's how it looks:
 
-(insert image here)
+![alt text](assets/CAD.png)
 
 It was made in fusion360 pretty nifty stuff.
 
