@@ -1,4 +1,4 @@
-Hey!! awesome job on this asylum submission. Can't wait to you build it.
+Hey!! awesome job on this asylum submission. Can't wait to see you build it.
 
 This is just a friendly reminder to make sure your PR follows the example format, including **directory structure**:
 
